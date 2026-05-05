@@ -17,6 +17,7 @@ Default stack assumptions for new app work: Bun + Hono backend, Vite + React fro
    - Sidechain creation or major planning: `references/sidechain-creation-walkthrough.md`
    - Readiness gate: `references/definition-of-ready.md`
    - Approval gates: `references/hard-stop-matrix.md`
+   - Phase autonomous execution: `references/pax-protocol.md`
    - Checkpoint or review: `references/checkpoint-ritual.md`
    - Drift cleanup or review: `references/anti-drift-review.md`
    - Claims verification: `references/hallucination-checks.md`
@@ -39,6 +40,7 @@ Default stack assumptions for new app work: Bun + Hono backend, Vite + React fro
 
 Invoke matching local skills when available. If a named skill is unavailable, follow the corresponding reference here as fallback.
 
+- Phase autonomous execution: `pax-protocol` when available, otherwise `references/pax-protocol.md`
 - Architecture decisions: `senior-architect`
 - Clean implementation/refactor: `solid`
 - Modularization review: `code-modularization-evaluator`
