@@ -15,6 +15,7 @@ Default stack assumptions for new app work: Bun + Hono backend, Vite + React fro
 2. Classify the work as one of: sidechain creation, sidechain execution, checkpoint/review, code cleanup, frontend/design, safety/threat-model, or planning-only.
 3. Load only the relevant reference files:
    - Sidechain creation or major planning: `references/sidechain-creation-walkthrough.md`
+   - Original sidechain skill source: `references/source-sidechain-skill.md`
    - Readiness gate: `references/definition-of-ready.md`
    - Approval gates: `references/hard-stop-matrix.md`
    - Phase autonomous execution: `references/pax-protocol.md`

@@ -233,6 +233,7 @@ See `references/definition-of-done.md`.
 | `references/definition-of-ready.md` | Pre-implementation readiness gate |
 | `references/definition-of-done.md` | Completion gate |
 | `references/sidechain-creation-walkthrough.md` | Sidechain analysis, complexity, prompt-chain, TDD |
+| `references/source-sidechain-skill.md` | Markdown export of the original `/sidechain` skill source |
 | `references/checkpoint-ritual.md` | Seven-phase checkpoint process |
 | `references/pax-protocol.md` | Phase-autonomous execution rules |
 | `references/governance-writer.md` | App-specific governance generation |
